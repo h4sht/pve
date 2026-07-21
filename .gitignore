@@ -1,0 +1,9 @@
+# Built binaries (distributed via GitHub Releases, not in-repo)
+/pve
+/pv
+/dist/
+
+# Local dev / scratch
+/tmp/
+*.bak
+*.tmp
